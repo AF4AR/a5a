@@ -1,0 +1,12 @@
+<system>
+   <version type="String">1.0.0</version>
+   <versionSo type="String">1.0.1</versionSo>
+   <mainPath type="String"/>
+   <gateway type="String"/>
+   <netDebug type="Boolean">false</netDebug>
+   <fps type="Boolean">false</fps>
+   <serverGet type="Boolean">false</serverGet>
+   <cheat type="Boolean">false</cheat>
+   <quality type="String">HIGH</quality>
+   <tracker type="String"></tracker>
+</system>

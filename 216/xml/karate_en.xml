@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	
+	<buttons>
+		<start><![CDATA[START]]></start>
+		<instructions><![CDATA[HOW TO PLAY]]></instructions>
+		<achievements><![CDATA[ACHIEVEMENTS]]></achievements>
+		<stats><![CDATA[YOUR STATS]]></stats>
+		<playAgain><![CDATA[PLAY AGAIN]]></playAgain>
+		<menu><![CDATA[MAIN MENU]]></menu>
+		<back><![CDATA[BACK]]></back>
+	</buttons>
+	
+	<pause>
+		<paused><![CDATA[PAUSED]]></paused>
+		<pauseGame><![CDATA[PAUSE GAME]]></pauseGame>
+		<muteSound><![CDATA[MUTE SOUND]]></muteSound>
+		<soundDown><![CDATA[SOUND DOWN]]></soundDown>
+		<soundUp><![CDATA[SOUND UP]]></soundUp>
+	</pause>
+	
+	<hud>
+		<score><![CDATA[SCORE:]]></score>
+		<scoreAppend><![CDATA[m]]></scoreAppend>
+	</hud>
+	
+	<stats>
+		<first><![CDATA[1st]]></first>
+		<second><![CDATA[2nd]]></second>
+		<third><![CDATA[3rd]]></third>
+		<totalDistance><![CDATA[TOTAL DISTANCE:]]></totalDistance>
+		<enemy0Defeated><![CDATA[GALCIAS' DEFEATED:]]></enemy0Defeated>
+		<enemy1Defeated><![CDATA[CHUCKS DEFEATED:]]></enemy1Defeated>
+		<enemy2Defeated><![CDATA[BRUCES DEFEATED:]]></enemy2Defeated>
+		<enemy3Defeated><![CDATA[WILLIAMS DEFEATED:]]></enemy3Defeated>
+		<pickups><![CDATA[JUICE CONSUMED:]]></pickups>
+	</stats>
+	
+	<achievements>
+		<medal>
+			<title><![CDATA[Waaa-Taaa!]]></title>
+			<description><![CDATA[Defeat Bruce x50]]></description>
+		</medal>
+		<medal>
+			<title><![CDATA[Chuck sucks]]></title>
+			<description><![CDATA[Defeat Chuck x300]]></description>
+		</medal>
+		<medal>
+			<title><![CDATA[Gumball rally]]></title>
+			<description><![CDATA[Survive 5000m]]></description>
+		</medal>
+		<medal>
+			<title><![CDATA[I know Kung fu]]></title>
+			<description><![CDATA[Reach 2000m untouched]]></description>
+		</medal>
+		<medal>
+			<title><![CDATA[I know Suburban Karate]]></title>
+			<description><![CDATA[Reach 10000m untouched]]></description>
+		</medal>
+		<medal>
+			<title><![CDATA[Junk jitsu]]></title>
+			<description><![CDATA[Reach the Junkyard]]></description>
+		</medal>
+		<medal>
+			<title><![CDATA[Too cool for school]]></title>
+			<description><![CDATA[Reach the School]]></description>
+		</medal>
+		<medal>
+			<title><![CDATA[Buuuurrrrrp]]></title>
+			<description><![CDATA[Collect 1000 cans in total]]></description>
+		</medal>
+	</achievements>
+
+	<gameOver>
+		<score><![CDATA[SCORE:]]></score>
+		<bestScore><![CDATA[BEST SCORE:]]></bestScore>
+	</gameOver>
+	
+</data>

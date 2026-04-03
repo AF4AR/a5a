@@ -1,0 +1,48 @@
+<sounds genvol="100" fxvol="100" musicvol="100">
+   <file id="main" hifi="sound.swf" lofi="">
+      <musics>
+         <!--theme interface-->
+         <_theme volume="100"/>
+         <!--game-->
+         <_game volume="100"/>
+         <!--transition-->
+         <_transition volume="100"/>
+         <!--release bouton-->
+         <_release volume="100"/>
+         <!--lose-->
+         <_lose volume="100"/>
+         <!--win-->
+         <_win volume="100"/>
+      </musics>
+      <fx>
+         <!--rodney dog-->
+         <_rodneydog volume="75"/>
+         <!--rodney bomb-->
+         <_rodneybomb volume="75"/>
+         <!--rodney flame-->
+         <_rodneyflame volume="150"/>
+         <!--andy bike-->
+         <_andybike volume="80"/>
+         <!--andy hole-->
+         <_andyhole volume="75"/>
+         <!--andy stone-->
+         <_andystone volume="70"/>
+         <!--andy barrier-->
+         <_andybarrier volume="150"/>
+         <!--jump-->
+         <_jump volume="0"/>
+         <!--throw ball-->
+         <_throw volume="0"/>
+         <!--recept ball-->
+         <_recept volume="90"/>
+         <!--hit balle barriere-->
+         <_hitball volume="100"/>
+         <!--combo-->
+         <_combo volume="50"/>
+         <!--bombe-->
+         <_bomb volume="100"/>
+         <!--points-->
+         <_points volume="40"/>
+      </fx>
+   </file>
+</sounds>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+
+	<items>
+		
+		<collection difficulty="0">
+			<pickup x="25" y="170" />
+			<pickup x="50" y="140" />
+			<pickup x="75" y="120" />
+			<pickup x="100" y="110" />
+			<obstacle type="low" x="100" y="150" />
+			<pickup x="125" y="120" />
+			<pickup x="150" y="140" />
+			<pickup x="175" y="170" />
+		</collection>
+		
+		<collection difficulty="0">
+			<pickup x="0" y="170" />
+			<pickup x="50" y="170" />
+			<enemy x="125" y="131" />
+			<pickup x="100" y="170" />
+			<pickup x="150" y="170" />
+			<pickup x="200" y="170" />
+		</collection>
+		
+		<collection difficulty="0">
+			<pickup x="50" y="170" />
+			<pickup x="100" y="170" />
+			<obstacle type="low" x="150" y="150" />
+			<pickup x="200" y="170" />
+			<pickup x="250" y="170" />
+		</collection>
+		
+		<collection difficulty="0">
+			<pickup x="0" y="170" />
+			<pickup x="50" y="170" />
+			<pickup x="100" y="170" />
+			<obstacle type="high" x="130" y="145" />
+			<pickup x="150" y="170" />
+			<pickup x="200" y="170" />
+		</collection>
+		
+		<collection difficulty="1">
+			<pickup x="0" y="170" />
+			<pickup x="50" y="170" />
+			<obstacle type="high" x="80" y="145" />
+			<pickup x="100" y="170" />
+			<pickup x="150" y="170" />
+			<obstacle type="high" x="160" y="145" />
+			<pickup x="200" y="170" />
+		</collection>
+		
+		<collection difficulty="1">
+			<pickup x="0" y="170" />
+			<pickup x="25" y="170" />
+			<obstacle type="low" x="75" y="150" />
+			<pickup x="125" y="170" />
+			<pickup x="150" y="170" />
+			<obstacle type="low" x="200" y="150" />
+			<pickup x="250" y="170" />
+			<pickup x="275" y="170" />
+		</collection>
+		
+		<collection difficulty="1">
+			<pickup x="0" y="170" />
+			<pickup x="50" y="170" />
+			<enemy x="75" y="131" />
+			<pickup x="100" y="170" />
+			<pickup x="150" y="170" />
+			<pickup x="200" y="170" />
+			<enemy x="225" y="131" />
+		</collection>
+		
+		<collection difficulty="2">
+			<pickup x="0" y="170" />
+			<enemy x="100" y="131" />
+			<pickup x="90" y="170" />
+			<obstacle type="low" x="120" y="150" />
+			<pickup x="220" y="170" />
+			<enemy x="290" y="131" />
+		</collection>
+		
+		<collection difficulty="3"> 
+			<obstacle type="high" x="30" y="145" />
+			<pickup x="20" y="170" />
+			<obstacle type="low" x="80" y="150" />
+			<pickup x="145" y="170" />
+			<pickup x="220" y="170" />
+			<enemy x="270" y="131" />
+		</collection>
+
+	</items>
+	
+</data>
