@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<TextureAtlas imagePath="fen.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.2.529 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="num0" x="0" y="0" width="27" height="46"/>
+	<SubTexture name="num1" x="27" y="0" width="27" height="46"/>
+	<SubTexture name="num2" x="54" y="0" width="27" height="46"/>
+	<SubTexture name="num3" x="81" y="0" width="27" height="46"/>
+	<SubTexture name="num4" x="108" y="0" width="27" height="46"/>
+	<SubTexture name="num5" x="135" y="0" width="27" height="46"/>
+	<SubTexture name="num6" x="162" y="0" width="27" height="46"/>
+	<SubTexture name="num7" x="189" y="0" width="27" height="46"/>
+	<SubTexture name="num8" x="216" y="0" width="27" height="46"/>
+	<SubTexture name="num9" x="243" y="0" width="27" height="46"/>
+</TextureAtlas>
